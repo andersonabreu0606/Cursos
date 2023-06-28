@@ -1,0 +1,8 @@
+Interpretar requisitos e ter um código assertivo (1h)
+- A importância de cumprir prazos
+- Primeiro contato com o requisito
+- Refinar a regra de negócio e tabela de mensagens
+- Definir prazos mais corretos
+- Devolver requisitos incompletos
+- Codificar de forma assertiva
+- Ser pró-ativo e suas consequências
