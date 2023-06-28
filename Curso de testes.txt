@@ -1,8 +1,0 @@
-Interpretar requisitos e fazer bons testes (1h)
-- A importância de cumprir prazos
-- Como ler requisitos e critérios de aceitação
-- Exemplos de requisitos
-- Definir a estratégia de testes
-- Exemplos de Estratégias para testes
-- Sugerir melhorias nos requisitos
-- Ser pró-ativo e suas consequências
