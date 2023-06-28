@@ -1,0 +1,14 @@
+A arte de escrever requisitos (2h)
+- Identificar perfis (Testers, devs e clientes)
+- A importância de cumprir prazos
+- Sistemas multilinguagem
+- Escrever é o foco, gaste palavras sem medo
+- O que é regra de negócio?
+- O que é tabela de mensagens?
+- O que é um requisito?
+- O começo de tudo está no levantamento de requisitos
+- A atomicidade do requisito
+- A importância da mockup
+- Dificuldades quando existem requisitos mal definidos
+- A importância de compreender as demais áreas
+- Ser pró-ativo e suas consequências
